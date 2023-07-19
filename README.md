@@ -1,2 +1,2 @@
 # projeto_YoungFood
-Projeto final de um delivery em Html e CSS
+(EM ANDAMENTO) Projeto final de um delivery em Html e CSS
